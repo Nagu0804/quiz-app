@@ -47,7 +47,7 @@ Dependencies:
 
 ```bash
 git clone https://github.com/Nagu0804/quiz-app.git
-cd lets_quiz
+cd quiz-app
 ```
 
 ### 2. Create the virtualenv
