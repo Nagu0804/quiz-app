@@ -33,6 +33,7 @@ ALLOWED_HOSTS = ['127.0.0.1', 'letsquiz.pythonanywhere.com']
 # Application definition
 
 INSTALLED_APPS = [
+    # 'jazzmin',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -41,7 +42,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # third party apps
     'crispy_forms',
-    # 'jazzmin',
     # my apps
     'quiz',
 
